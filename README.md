@@ -1,2 +1,3 @@
-# service-bridge
+# Service Bridge
+
 A placeholder.
